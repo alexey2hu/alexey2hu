@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://i.gifer.com/origin/7e/7e7ec2a4e29d118ad7f24f93f0a68ef4.gif" width="200px">
-</h1>
-
 <h1 align="center">Hello world! I'm Alexey Burakov 👋</h1>
 <h3 align="center">Fullstack Developer | Business Process Automation</h3>
 
@@ -18,6 +14,12 @@
   <img src="https://komarev.com/ghpvc/?username=alexey2hu&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/
+	74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
+	width="400px">
+</h1>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -29,7 +31,7 @@ I create **IT solutions** that simplify user experiences and optimize business p
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,cs,java,go,git" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,cpp,cs,java,python,go,git" />
 </p>
 
 ---
@@ -75,7 +77,7 @@ I create **IT solutions** that simplify user experiences and optimize business p
 
 ---
 
-<h3 align="center">🌟 Open to new opportunities</h3>
+<h3 align="center">🌟 Open to new opportunities!</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,100:302b63&height=100&section=footer">
