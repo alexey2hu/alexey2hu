@@ -29,7 +29,7 @@ I create **IT solutions** that simplify user experiences and optimize business p
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,go,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,cs,java,go,git" />
 </p>
 
 ---
