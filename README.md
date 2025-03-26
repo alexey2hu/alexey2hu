@@ -70,7 +70,7 @@ I create **IT solutions** that simplify user experiences and optimize business p
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=alexey2hu&theme=tokyonight&cache_seconds=86400">
+  <img src="https://github-readme-streak-stats.vercel.app?user=alexey2hu&theme=tokyonight">
 </p>
 
 <p align="center">
