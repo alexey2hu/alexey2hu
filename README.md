@@ -66,8 +66,8 @@ I create **IT solutions** that simplify user experiences and optimize business p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexey2hu&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=alexey2hu&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=alexey2hu&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alexey2hu&theme=tokyonight" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
