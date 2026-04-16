@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-I create **IT solutions** that simplify user experiences and optimize business processes. My experience includes **mobile, web, and desktop development**, automation, and UI/UX design.
+Web apps, complex websites — basically, I make sure it works even when no one's watching.
 
 ---
 
