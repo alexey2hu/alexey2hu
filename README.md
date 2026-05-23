@@ -30,7 +30,7 @@ Web apps, complex websites — basically, I make sure it works even when no one'
 ## 🛠️ Tech Stack
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cs,python" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,cs" />
 </p>
 
 ---
